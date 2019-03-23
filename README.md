@@ -1,4 +1,6 @@
 
+Github link:
+git@github.com:lomaslove/my-portfolio.git
 
 # WELCOME TO THE Portfolio Website!
 
