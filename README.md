@@ -109,17 +109,18 @@ This is a personal portfolio website so there aren't many ethical or moral conce
         However, there are few cons as well. some of them are addiction, time wasters and cause distractions. spams and advertising and crime.
 
 
-
+# screenshots:
 
 ![trello board](https://github.com/lomaslove/
-my-portfolio/screnshot/Screenshot (10).png
-       
-![github](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(5).png)
-![source code](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(6).png)
-![source code](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(7).png)
+ ![source code] my-portfolio/screnshot/Screenshot (8).png
+      
+![github] (https://github.com/lomaslove/
+![source code] my-portfolio/screnshot/Screenshot (12).png
 
-
+!'[spreadsheet] (https://github.com/lomaslove/  
+![source code] my-portfolio/screnshot/Screenshot (10).png
+      
 
         
-        my-portfolio/screnshot/Screenshot (10).png
+         
       
