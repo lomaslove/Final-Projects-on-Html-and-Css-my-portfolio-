@@ -48,6 +48,7 @@ header {
     padding: 30px;
     padding-left: 10px;
     transition: padding 0.4s;
+    color: red;
 }
 
 #logo {
@@ -84,7 +85,7 @@ header a {
 }
 
 #navigation a:hover {
-    color: yellow;
+    background-color: black;
 }
 
 #navigation a {
@@ -140,7 +141,7 @@ header.toggled #navigation {
 }
 
 .whoiam-text p1{
-    color: blue;
+    color: rgb(0, 255, 191);
     size: 10px;
 }
 .btn {
@@ -760,6 +761,13 @@ h2 {
 
 }
 
+ 
+
+
+.copyright {
+    text-align: center;
+    padding: 20px;
+}
 #footer {
     background-color: #191c35;
     color: #fff;
@@ -795,12 +803,6 @@ h2 {
 
 #footer .link a {
     display: block;
-    padding: 20px;
-}
-
-
-.copyright {
-    text-align: center;
     padding: 20px;
 }
 
