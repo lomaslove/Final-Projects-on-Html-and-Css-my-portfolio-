@@ -107,3 +107,19 @@ This is a personal portfolio website so there aren't many ethical or moral conce
         the internet provides useful data, information, and knowledge for the personal, social and 
         economic development and it is up to us to utlizise our time on the worldwide web in a productive manner.
         However, there are few cons as well. some of them are addiction, time wasters and cause distractions. spams and advertising and crime.
+
+
+
+
+![trello board](https://github.com/lomaslove/
+my-portfolio/screnshot/Screenshot (10).png
+       
+![github](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(5).png)
+![source code](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(6).png)
+![source code](https://github.com/lomaslove/terminal_quiz/blob/master/screenshots/Screenshot%20(7).png)
+
+
+
+        
+        my-portfolio/screnshot/Screenshot (10).png
+      
