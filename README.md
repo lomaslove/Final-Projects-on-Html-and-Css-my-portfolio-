@@ -117,10 +117,10 @@ This is a personal portfolio website so there aren't many ethical or moral conce
 ![github] (https://github.com/lomaslove/
 ![source code] my-portfolio/screnshot/Screenshot (12).png
 
-!'[spreadsheet] (https://github.com/lomaslove/  
-![source code] my-portfolio/screnshot/Screenshot (10).png
-      
-
+!'[spreadsheet] (https://github.com/lomaslove/ 
+my-portfolio/screnshot/Screenshot (10).png
+       
+ 
         
          
       
